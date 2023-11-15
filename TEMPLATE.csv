@@ -1,0 +1,2 @@
+ref_ id,customer_name,customer_phone,customer_notes,dropoff_ address,dropoff_ address_ directions,bill_ amount,payment_ mode,packages,notes
+h121,alexandros,+961 123456,Some Notes,"South, Saida",Some specific directions,35$ + 0L.L.,CASH,1,Some extra notes
